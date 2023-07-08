@@ -36,4 +36,3 @@ public class task1 {
         System.out.println("Факториал " + n + ": " + factorial);
     }
 }
-
