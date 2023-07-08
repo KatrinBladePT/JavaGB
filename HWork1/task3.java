@@ -2,8 +2,7 @@ package HWork1;
 //Реализовать простой калькулятор
 import java.util.Scanner;
 
-public class task3 {
-    public class Calculator {
+    public class task3 {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
     
@@ -40,4 +39,3 @@ public class task3 {
             System.out.println("Результат: " + result);
         }
     }
-}
