@@ -34,5 +34,6 @@ public class task1 {
 
         System.out.println("Треугольное число " + n + ": " + triangularNumber);
         System.out.println("Факториал " + n + ": " + factorial);
+        scanner.close();
     }
 }
